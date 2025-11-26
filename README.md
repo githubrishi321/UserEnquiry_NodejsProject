@@ -19,15 +19,21 @@ A simple MERN-based Enquiry Management module that allows users to submit enquir
 7)REST API with MongoDB (Mongoose)
 
 🔧 Tech Stack
+
 Frontend: React.js, Axios, Flowbite React, React Toastify
+
 Backend: Node.js, Express.js, MongoDB, Mongoose, CORS, dotenv
 
+
 🛠 Installation & Setup
+
 Backend Setup
 cd server
 npm install
 
+
 Create a .env file:
+
 DBURL=your_mongodb_connection_url
 PORT=8020
 
@@ -37,6 +43,7 @@ Frontend Setup
 cd client
 npm install
 npm run dev
+
 
 📡 API Endpoints
 Base URL:
@@ -48,5 +55,7 @@ Base URL:
 | GET    | `/`           | Get all enquiries  |
 | DELETE | `/delete/:id` | Delete enquiry     |
 | PUT    | `/update/:id` | Update enquiry     |
+
+
 🖼 Screenshots
 Home Page ![Homepage](./screenshots/HomePage.png)
