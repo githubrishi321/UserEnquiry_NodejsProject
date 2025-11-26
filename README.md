@@ -3,12 +3,19 @@
 A simple MERN-based Enquiry Management module that allows users to submit enquiries and admins to view, edit, and delete them. The project includes a Node.js + Express backend with MongoDB and a React frontend using Flowbite components.
 
 🚀 Features
+
 1)Add new enquiries
+
 2)View all enquiries in a table
+
 3)Edit enquiry
+
 4)Delete enquiry
+
 5)React Toastify notifications
+
 6)Flowbite UI components
+
 7)REST API with MongoDB (Mongoose)
 
 🔧 Tech Stack
